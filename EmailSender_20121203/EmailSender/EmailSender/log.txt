@@ -1,0 +1,62 @@
+send fail to: xiaodong.liu@kenexa.com
+send fail to: xiaodong.liu@kenexa.com
+send fail to: xiaodong.liu@kenexa.com
+send fail to: xiaodong.liu@kenexa.com
+send success to: xiaodong.liu@kenexa.com
+send success to: xiaodong.liu@kenexa.com
+send success to: xiaodong.liu@kenexa.com
+send success to: xiaodong.liu@kenexa.com
+send success to: xiaodong.liu@kenexa.com
+send success to: xiaodong.liu@kenexa.com
+send success to: xiaodong.liu@kenexa.com
+send success to: xiaodong.liu@kenexa.com
+send success to: kongfei111@163.com
+send success to: xiaodong.liu@kenexa.com
+send success to: kongfei111@163.com
+send success to: xiaodong.liu@kenexa.com
+send success to: kongfei111@163.com
+send success to: xiaodong.liu@kenexa.com		 error:Transaction failed. The server response was: DT:SPM smtp4, DtGowEAZG57qhCBQFqpiEA--.175S2 1344308461 http://mail.163.com/help/help_spam_16.htm?ip=116.236.250.75&hostid=smtp4&time=1344308461
+send fail to: xiaodong.liu@kenexa.com		 error:Transaction failed. The server response was: DT:SPM smtp4, DtGowEBZvU+XhSBQCeRiEA--.875S2 1344308633 http://mail.163.com/help/help_spam_16.htm?ip=116.236.250.75&hostid=smtp4&time=1344308633
+send success to: kongfei111@163.com
+send fail to: xiaodong.liu@kenexa.com		 error:Transaction failed. The server response was: DT:SPM smtp2, DNGowEC521x_hiBQ218eAQ--.314S2 1344308865 http://mail.163.com/help/help_spam_16.htm?ip=116.236.250.75&hostid=smtp2&time=1344308865
+send success to: kongfei111@163.com
+Cross-thread operation not valid: Control 'lblTotalEmails' accessed from a thread other than the thread it was created on.
+Cross-thread operation not valid: Control 'lblTotalEmails' accessed from a thread other than the thread it was created on.
+Cross-thread operation not valid: Control 'lblTotalEmails' accessed from a thread other than the thread it was created on.
+Cross-thread operation not valid: Control 'lblTotalEmails' accessed from a thread other than the thread it was created on.
+send success to: xiaodong.liu@kenexa.com
+Cross-thread operation not valid: Control 'lblTotalEmails' accessed from a thread other than the thread it was created on.
+send fail to: xiaodong.liu@kenexa.com		 error:Transaction failed. The server response was: DT:SPM smtp2, DNGowEB5c0SGlCBQIAsjAQ--.990S2 1344312457 http://mail.163.com/help/help_spam_16.htm?ip=116.236.250.75&hostid=smtp2&time=1344312457
+Cross-thread operation not valid: Control 'lblTotalEmails' accessed from a thread other than the thread it was created on.
+send success to: xiaodong.liu@kenexa.com
+send fail to: xiaodong.liu@kenexa.com		 error:Transaction failed. The server response was: DT:SPM smtp3, DdGowEC5llFOmyBQ2TDzEw--.475S2 1344314191 http://mail.163.com/help/help_spam_16.htm?ip=116.236.250.75&hostid=smtp3&time=1344314191
+send success to: xiaodong.liu@kenexa.com
+send fail to: xiaodong.liu@kenexa.com		 error:Transaction failed. The server response was: DT:SPM smtp4, DtGowEDJHXQ8nCBQ6dlpEA--.760S2 1344314429 http://mail.163.com/help/help_spam_16.htm?ip=116.236.250.75&hostid=smtp4&time=1344314429
+send fail to: xiaodong.liu@kenexa.com		 error:Transaction failed. The server response was: DT:SPM smtp4, DtGowECJ6EK2nCBQDPlpEA--.435S2 1344314551 http://mail.163.com/help/help_spam_16.htm?ip=116.236.250.75&hostid=smtp4&time=1344314551
+send success to: xiaodong.liu@kenexa.com
+send fail to: xiaodong.liu@kenexa.com		 error:Transaction failed. The server response was: DT:SPM smtp2, DNGowEB5lFEpnyBQPg4mAQ--.1062S2 1344315178 http://mail.163.com/help/help_spam_16.htm?ip=116.236.250.75&hostid=smtp2&time=1344315178
+send fail to: xiaodong.liu@kenexa.com		 error:Transaction failed. The server response was: DT:SPM smtp2, DNGowEDZr2C1nyBQfTYmAQ--.589S2 1344315319 http://mail.163.com/help/help_spam_16.htm?ip=116.236.250.75&hostid=smtp2&time=1344315319
+send fail to: xiaodong.liu@kenexa.com		 error:Transaction failed. The server response was: DT:SPM smtp3, DdGowEDZ51UIoCBQIIj0Ew--.38S2 1344315401 http://mail.163.com/help/help_spam_16.htm?ip=116.236.250.75&hostid=smtp3&time=1344315401
+send fail to: xiaodong.liu@kenexa.com		 error:Transaction failed. The server response was: DT:SPM smtp3, DdGowEDZVV1toCBQp6b0Ew--.1294S2 1344315502 http://mail.163.com/help/help_spam_16.htm?ip=116.236.250.75&hostid=smtp3&time=1344315502
+send fail to: xiaodong.liu@kenexa.com		 error:Transaction failed. The server response was: DT:SPM smtp3, DdGowEBZPFihoCBQgbX0Ew--.929S2 1344315555 http://mail.163.com/help/help_spam_16.htm?ip=116.236.250.75&hostid=smtp3&time=1344315555
+send success to: xiaodong.liu@kenexa.com
+send fail to: xiaodong.liu@kenexa.com		 error:Transaction failed. The server response was: DT:SPM smtp3, DdGowEB5UGnaoiBQdF_1Ew--.1225S2 1344316125 http://mail.163.com/help/help_spam_16.htm?ip=116.236.250.75&hostid=smtp3&time=1344316125
+send success to: kongfei111@163.com
+send success to: xiaodong.liu@kenexa.com
+send success to: xiaodong.liu@kenexa.com
+send success to: kongfei111@163.com
+send fail to: xiaodong.liu@kenexa.com		 error:Transaction failed. The server response was: DT:SPM smtp2, DNGowEC5tVgAqiBQvAwpAQ--.1123S2 1344317953 http://mail.163.com/help/help_spam_16.htm?ip=116.236.250.75&hostid=smtp2&time=1344317953
+send success to: kongfei111@163.com
+send fail to: xiaodong.liu@kenexa.com		 error:Transaction failed. The server response was: DT:SPM smtp2, DNGowEBJVViaqiBQ7DQpAQ--.1083S2 1344318108 http://mail.163.com/help/help_spam_16.htm?ip=116.236.250.75&hostid=smtp2&time=1344318108
+send success to: kongfei111@163.com
+send fail to: xiaodong.liu@kenexa.com		 error:Transaction failed. The server response was: DT:SPM smtp2, DNGowED5WU8GqyBQS1EpAQ--.150S2 1344318216 http://mail.163.com/help/help_spam_16.htm?ip=116.236.250.75&hostid=smtp2&time=1344318216
+send fail to: xiaodong.liu@kenexa.com		 error:Transaction failed. The server response was: DT:SPM smtp3, DdGowEDpUUSKqyBQg833Ew--.840S2 1344318347 http://mail.163.com/help/help_spam_16.htm?ip=116.236.250.75&hostid=smtp3&time=1344318347
+send fail to: kongfei111@163.com		 error:An asynchronous call is already in progress. It must be completed or canceled before you can call this method.
+send fail to: xiaodong.liu@kenexa.com		 error:Transaction failed. The server response was: DT:SPM smtp3, DdGowEDZqlebqyBQl9L3Ew--.1435S2 1344318365 http://mail.163.com/help/help_spam_16.htm?ip=116.236.250.75&hostid=smtp3&time=1344318365
+send fail to: xiaodong.liu@kenexa.com		 error:Transaction failed. The server response was: DT:SPM smtp4, DtGowEDZR3acrCBQYnhuEA--.92S2 1344318625 http://mail.163.com/help/help_spam_16.htm?ip=116.236.250.75&hostid=smtp4&time=1344318625
+send fail to: xiaodong.liu@kenexa.com		 error:Transaction failed. The server response was: DT:SPM smtp4, DtGowEDZ1kb6rCBQ95duEA--.992S2 1344318718 http://mail.163.com/help/help_spam_16.htm?ip=116.236.250.75&hostid=smtp4&time=1344318718
+send fail to: xiaodong.liu@kenexa.com		 error:Transaction failed. The server response was: DT:SPM smtp4, DtGowEDZvFfurSBQLORuEA--.1261S2 1344318960 http://mail.163.com/help/help_spam_16.htm?ip=116.236.250.75&hostid=smtp4&time=1344318960
+send fail to: xiaodong.liu@kenexa.com		 error:Transaction failed. The server response was: DT:SPM smtp4, DtGowEDJFXAMriBQyOxuEA--.300S2 1344318990 http://mail.163.com/help/help_spam_16.htm?ip=116.236.250.75&hostid=smtp4&time=1344318990
+send success to: kongfei111@163.com
+send success to: xiaodong.liu@kenexa.com
+send success to: kongfei111@163.com

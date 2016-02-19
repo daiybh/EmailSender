@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<appSettings>
+		<add key="logfile" value="D:\Project Demo\EmailSender\EmailSender\log.txt"/>
+		<add key="sourcetype" value="Access"/>
+		<add key="SourceFile" value="D:\Project Demo\EmailSender\EmailSender\email_template2.mdb"/>		
+		<add key="EmailServer" value="smtp.163.com"/>
+		<add key="UserName" value="kongfei111@163.com"/>
+		<add key="Password" value="111999"/>
+		<add key="SenderEmail" value="kongfei111@163.com"/>
+		<add key="SenderName" value="Your Boss"/>
+		<add key="ThreadNum" value="1"/>
+		<add key="BranchNum" value="100"/>
+		<add key="Period" value="1"/>
+	</appSettings>
+</configuration>
